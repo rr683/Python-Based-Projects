@@ -1,4 +1,2 @@
-# FristRepo
-First Repo demo for first time user
+# Welcome to Python Based Projects by Ricardo Rosales-Mesta
 
-This comment is to record first commit 
